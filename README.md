@@ -2,7 +2,7 @@
 `bash
 git clone https://github.com/brodyhockey99/Linux-hex-decoder.git`
 
-`cd Linux-hex-decoder1
+`cd Linux-hex-decoder1`
 
 `chmod +x hexdecoder.sh`
 
